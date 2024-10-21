@@ -28,4 +28,8 @@ Hola, Mi nombre es Jeiner Diaz Morales, este es mi primer proyecto personal de P
 - Se utilizaron herramientas avanzadas como **Power BI, DAX y Power Query** para el análisis y visualización de los datos. Power BI proporcionó una plataforma intuitiva para crear dashboards interactivos, mientras que DAX facilitó el desarrollo de cálculos y medidas personalizadas. Por su parte, Power Query permitió realizar la limpieza y transformación de datos, asegurando que la información utilizada fuera precisa y relevante para el análisis.
 
 
+## Diseño del Dashboard:
+
+- Imagen previa
   [Proyect_1.pdf](https://github.com/user-attachments/files/17464420/Proyect_1.pdf)
+![Captura_Proyect_1](https://github.com/user-attachments/assets/ebbe749c-8bd0-4825-80db-fd4a6b44be7f)
