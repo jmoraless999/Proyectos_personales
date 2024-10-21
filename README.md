@@ -31,6 +31,5 @@ Hola, Mi nombre es Jeiner Diaz Morales, este es mi primer proyecto personal de P
 
 ## Diseño del Dashboard:
 
-- Imagen previa
-![Proyect_1.pdf](https://github.com/user-attachments/files/17464420/Proyect_1.pdf)
+- Imagen previa [Proyect_1.pdf](https://github.com/user-attachments/files/17464420/Proyect_1.pdf)
 ![Captura_Proyect_1](https://github.com/user-attachments/assets/ebbe749c-8bd0-4825-80db-fd4a6b44be7f)
