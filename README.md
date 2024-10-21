@@ -42,7 +42,7 @@ En conjunto, estos elementos visuales no solo mejoran la usabilidad del dashboar
   
 ![Captura_Proyect_1](https://github.com/user-attachments/assets/ebbe749c-8bd0-4825-80db-fd4a6b44be7f)
 - Imagen previa en formato PDF [Proyect_1.pdf](https://github.com/user-attachments/files/17464420/Proyect_1.pdf)
-- Interacción con el Dashboard (Link)[DashBoard - Power Bi](https://app.powerbi.com/viewr=eyJrIjoiZDVkNWFiMzEtNmE2Ny00NjIyLWFjZTctNWQ5NWYxNDNiZTExIiwidCI6ImJhYjBiNjc5LWJkNWYtNGZlOC1iNTE2LWM2YjhiMzE3Yzc4MiIsImMiOjR9)
+- Interacción con el Dashboard (Link)[DashBoard - Power Bi](https://app.powerbi.com/view?r=eyJrIjoiZDVkNWFiMzEtNmE2Ny00NjIyLWFjZTctNWQ5NWYxNDNiZTExIiwidCI6ImJhYjBiNjc5LWJkNWYtNGZlOC1iNTE2LWM2YjhiMzE3Yzc4MiIsImMiOjR9)
 
 ## Resultados y Conclusiones:
 - **Porcentaje de Llamadas Contestadas:**
