@@ -78,6 +78,21 @@ Asimismo, los agentes con ID inferiores a 500 también evidenciaron un rendimien
 
 Un análisis más detallado y la recopilación de información adicional permitirán determinar si existe una correlación entre el rendimiento y factores como los horarios de trabajo, la experiencia de los agentes o el tipo de formación recibida.
 
+![Captura_Proyect_tend](https://github.com/user-attachments/assets/20821d9f-f1cc-435d-8696-a845207d7b59)
 
+## Retroalimentación y Mejoras Futuras:
 
+Para futuras mejoras del dashboard, sería fundamental recopilar una mayor cantidad de datos diarios, así como opiniones de los clientes que incluyan calificaciones o descripciones breves sobre la calidad del servicio recibido. Esta información permitirá obtener una visión más completa del desempeño y la satisfacción del cliente.
 
+Además, sería beneficioso desarrollar un dashboard en tiempo real que facilite la identificación inmediata de agentes con bajo rendimiento, lo que permitiría implementar mejoras sobre la marcha. Con un conjunto de datos más amplio, también se podrían aplicar modelos de regresión y técnicas de machine learning para optimizar nuestros procesos y estrategias, haciéndonos más competitivos en la industria.
+
+Por último, la implementación de bots de respuesta inmediata en los canales de atención podría mejorar la eficiencia y satisfacción del cliente, al reducir tiempos de espera y ofrecer soluciones rápidas a las consultas más comunes.
+
+## Cierre:
+
+Quiero agradecer a todos por tomarse el tiempo para leer este proyecto. Este es mi primer dashboard realizado en Power BI y mi primera publicación en GitHub. Estoy comprometido a seguir perfeccionando mis habilidades como analista de datos, con el objetivo de adquirir más experiencia en este apasionante campo. Aspiro a conseguir mi primer empleo como analista de datos y aplicar mis conocimientos de manera efectiva.
+
+Agradezco cualquier comentario o sugerencia que puedan tener, ya que son valiosos para mi crecimiento profesional.
+**DashBoard:** [DashBoard - Power Bi](https://app.powerbi.com/groups/me/reports/62040023-94ef-44eb-9461-66ce61f7e060?ctid=bab0b679-bd5f-4fe8-b516-c6b8b317c782&pbi_source=linkShare)
+**Datos:**  
+**Jeiner Diaz Morales**
