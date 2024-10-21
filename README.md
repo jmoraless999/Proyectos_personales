@@ -89,7 +89,7 @@ Quiero agradecer a todos por tomarse el tiempo para leer este proyecto. Este es 
 
 Agradezco cualquier comentario o sugerencia que puedan tener, ya que son valiosos para mi crecimiento profesional.
 
-**DashBoard:** [DashBoard - Power Bi](https://app.powerbi.com/viewr=eyJrIjoiZDVkNWFiMzEtNmE2Ny00NjIyLWFjZTctNWQ5NWYxNDNiZTExIiwidCI6ImJhYjBiNjc5LWJkNWYtNGZlOC1iNTE2LWM2YjhiMzE3Yzc4MiIsImMiOjR9)
+**DashBoard:** [DashBoard - Power Bi](https://app.powerbi.com/view?r=eyJrIjoiZDVkNWFiMzEtNmE2Ny00NjIyLWFjZTctNWQ5NWYxNDNiZTExIiwidCI6ImJhYjBiNjc5LWJkNWYtNGZlOC1iNTE2LWM2YjhiMzE3Yzc4MiIsImMiOjR9)
 
 **Datos:**  [Call Center Data.csv](https://github.com/user-attachments/files/17466054/Call.Center.Data.csv)
 
