@@ -31,5 +31,19 @@ Hola, Mi nombre es Jeiner Diaz Morales, este es mi primer proyecto personal de P
 
 ## Diseño del Dashboard:
 
-- Imagen previa [Proyect_1.pdf](https://github.com/user-attachments/files/17464420/Proyect_1.pdf)
+Para la visualización de los datos, se optó por utilizar una variedad de elementos gráficos que facilitan la interpretación y análisis de la información. Se incorporó un gráfico de dispersión para representar el rendimiento de los operarios en relación al porcentaje de llamadas respondidas, lo que permite identificar rápidamente quiénes están sobresaliendo y quiénes necesitan apoyo.
+
+Además, se implementaron gráficos de medidor para ofrecer una visualización clara y concisa de los valores individuales de cada empleado, así como de las métricas generales del día, incluyendo el total de llamadas recibidas, las que fueron contestadas y las que se abandonaron.
+
+El uso de tarjetas informativas también resulta crucial, ya que proporcionan datos clave sobre los tiempos promedio en minutos para contestar una llamada, la duración de las llamadas y los tiempos de espera. Esto permite a los usuarios evaluar de manera efectiva si se están cumpliendo los objetivos establecidos por la empresa.
+
+En conjunto, estos elementos visuales no solo mejoran la usabilidad del dashboard, sino que también garantizan que los datos sean fácilmente accesibles y comprensibles, facilitando la toma de decisiones informadas.
+
+  
 ![Captura_Proyect_1](https://github.com/user-attachments/assets/ebbe749c-8bd0-4825-80db-fd4a6b44be7f)
+- Imagen previa en formato PDF [Proyect_1.pdf](https://github.com/user-attachments/files/17464420/Proyect_1.pdf)
+- Interacción con el Dashboard (Link) [DashBoard - Power Bi](https://app.powerbi.com/groups/me/reports/62040023-94ef-44eb-9461-66ce61f7e060?ctid=bab0b679-bd5f-4fe8-b516-c6b8b317c782&pbi_source=linkShare)
+
+## Resultados y Conclusiones:
+
+
