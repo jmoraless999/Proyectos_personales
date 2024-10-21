@@ -45,5 +45,11 @@ En conjunto, estos elementos visuales no solo mejoran la usabilidad del dashboar
 - Interacción con el Dashboard (Link) [DashBoard - Power Bi](https://app.powerbi.com/groups/me/reports/62040023-94ef-44eb-9461-66ce61f7e060?ctid=bab0b679-bd5f-4fe8-b516-c6b8b317c782&pbi_source=linkShare)
 
 ## Resultados y Conclusiones:
+**Porcentaje de Llamadas Contestadas:**
 
+El análisis revela que el 92.69% de las llamadas son atendidas, mientras que el resto se abandona. Considerando que la empresa establece un objetivo mínimo de rendimiento del 80% en llamadas contestadas, esto significa que 1,186 llamadas fueron atendidas, mientras que 65 llamadas no cumplieron con este estándar.
+
+Dentro del grupo que logra cumplir con el objetivo, el porcentaje promedio de llamadas contestadas es de 94.22%, con un 5.78% de abandonos. En contraste, el grupo con un rendimiento inferior al 80% presenta un porcentaje promedio de llamadas atendidas del 64.79% y una tasa de abandono del 35.21%.
+
+Estos resultados destacan la importancia de implementar estrategias de mejora para el grupo que no alcanza el rendimiento esperado, lo que podría tener un impacto positivo en la eficiencia general del call center.
 
