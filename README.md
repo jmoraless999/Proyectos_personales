@@ -94,5 +94,6 @@ Quiero agradecer a todos por tomarse el tiempo para leer este proyecto. Este es 
 
 Agradezco cualquier comentario o sugerencia que puedan tener, ya que son valiosos para mi crecimiento profesional.
 **DashBoard:** [DashBoard - Power Bi](https://app.powerbi.com/groups/me/reports/62040023-94ef-44eb-9461-66ce61f7e060?ctid=bab0b679-bd5f-4fe8-b516-c6b8b317c782&pbi_source=linkShare)
-**Datos:**  
+**Datos:**  [Call Center Data.csv](https://github.com/user-attachments/files/17466054/Call.Center.Data.csv)
+
 **Jeiner Diaz Morales**
