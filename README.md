@@ -26,3 +26,6 @@ Hola, Mi nombre es Jeiner Diaz Morales, este es mi primer proyecto personal de P
 - Para este proyecto, los datos se extrajeron de la base de datos disponible en **Kaggle**, con el objetivo de desarrollar un estudio personal que permita afianzar mis conocimientos y aplicarlos en un contexto más realista.
 
 - Se utilizaron herramientas avanzadas como **Power BI, DAX y Power Query** para el análisis y visualización de los datos. Power BI proporcionó una plataforma intuitiva para crear dashboards interactivos, mientras que DAX facilitó el desarrollo de cálculos y medidas personalizadas. Por su parte, Power Query permitió realizar la limpieza y transformación de datos, asegurando que la información utilizada fuera precisa y relevante para el análisis.
+
+
+  [Proyect_1.pdf](https://github.com/user-attachments/files/17464420/Proyect_1.pdf)
