@@ -1,5 +1,5 @@
 # Proyectos_personales
-[] (https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000)
+![] (https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000)
 
  ### MI PRIMER PROYECTO POWER BI 
 
