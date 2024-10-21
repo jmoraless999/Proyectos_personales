@@ -45,21 +45,18 @@ En conjunto, estos elementos visuales no solo mejoran la usabilidad del dashboar
 - Interacción con el Dashboard (Link) [DashBoard - Power Bi](https://app.powerbi.com/groups/me/reports/62040023-94ef-44eb-9461-66ce61f7e060?ctid=bab0b679-bd5f-4fe8-b516-c6b8b317c782&pbi_source=linkShare)
 
 ## Resultados y Conclusiones:
-**Porcentaje de Llamadas Contestadas:**
-
+- **Porcentaje de Llamadas Contestadas:**
 El análisis revela que el 92.69% de las llamadas son atendidas, mientras que el resto se abandona. Considerando que la empresa establece un objetivo mínimo de rendimiento del 80% en llamadas contestadas, esto significa que 1,186 llamadas fueron atendidas, mientras que 65 llamadas no cumplieron con este estándar.
-
 Dentro del grupo que logra cumplir con el objetivo, el porcentaje promedio de llamadas contestadas es de 94.22%, con un 5.78% de abandonos. En contraste, el grupo con un rendimiento inferior al 80% presenta un porcentaje promedio de llamadas atendidas del 64.79% y una tasa de abandono del 35.21%.
-
 Estos resultados destacan la importancia de implementar estrategias de mejora para el grupo que no alcanza el rendimiento esperado, lo que podría tener un impacto positivo en la eficiencia general del call center.
 
-**Tiempo Promedio de Respuesta:** El tiempo promedio de respuesta se sitúa en 0.41 minutos (24.6 segundos), lo cual está dentro de los objetivos establecidos por la empresa. Esto confirma que, en promedio, las llamadas son atendidas en menos de 25 segundos, lo que es un indicador positivo de eficiencia en la atención al cliente.
+- **Tiempo Promedio de Respuesta:** El tiempo promedio de respuesta se sitúa en 0.41 minutos (24.6 segundos), lo cual está dentro de los objetivos establecidos por la empresa. Esto confirma que, en promedio, las llamadas son atendidas en menos de 25 segundos, lo que es un indicador positivo de eficiencia en la atención al cliente.
 
-**Tiempo Promedio de Espera:** El tiempo promedio de espera para las llamadas es de 3.87 minutos. Aunque este valor es relativamente bajo, es necesario recopilar más datos para contrastarlo con períodos anteriores y evaluar cómo se siente el cliente durante la espera. Un análisis más profundo permitirá determinar si este tiempo es satisfactorio para los usuarios.
+- **Tiempo Promedio de Espera:** El tiempo promedio de espera para las llamadas es de 3.87 minutos. Aunque este valor es relativamente bajo, es necesario recopilar más datos para contrastarlo con períodos anteriores y evaluar cómo se siente el cliente durante la espera. Un análisis más profundo permitirá determinar si este tiempo es satisfactorio para los usuarios.
 
-**Duración Promedio de las Llamadas:** El tiempo promedio de duración de las llamadas es de 2.63 minutos. Este valor puede considerarse adecuado, pero sería útil contrastarlo con datos de rendimiento de períodos anteriores o con benchmarks de la industria para identificar áreas de mejora potencial.
+- **Duración Promedio de las Llamadas:** El tiempo promedio de duración de las llamadas es de 2.63 minutos. Este valor puede considerarse adecuado, pero sería útil contrastarlo con datos de rendimiento de períodos anteriores o con benchmarks de la industria para identificar áreas de mejora potencial.
 
-**Comparativa de Rendimiento entre Agentes:** Para facilitar la comparación, se dividió a los agentes en dos grupos: aquellos con un rendimiento de llamadas superior al 80% y aquellos con un rendimiento igual o inferior a este umbral. Los resultados indican que el abandono de llamadas en el grupo con rendimiento inferior aumentó seis veces más que en el grupo que alcanzó el 80% de efectividad. Este hallazgo subraya la necesidad de implementar medidas de capacitación y apoyo para mejorar el rendimiento de los agentes que no cumplen con los estándares establecidos.
+- **Comparativa de Rendimiento entre Agentes:** Para facilitar la comparación, se dividió a los agentes en dos grupos: aquellos con un rendimiento de llamadas superior al 80% y aquellos con un rendimiento igual o inferior a este umbral. Los resultados indican que el abandono de llamadas en el grupo con rendimiento inferior aumentó seis veces más que en el grupo que alcanzó el 80% de efectividad. Este hallazgo subraya la necesidad de implementar medidas de capacitación y apoyo para mejorar el rendimiento de los agentes que no cumplen con los estándares establecidos.
 
 
 **Grupo 1 (Mayor a 80%)**
@@ -70,9 +67,7 @@ Estos resultados destacan la importancia de implementar estrategias de mejora pa
 
 ![Grupo 0 ](https://github.com/user-attachments/assets/07eb3b3b-f4e2-4add-bf0c-207d554aa84e)
 
-**Posibles Tendencias:**
-
-Durante el análisis del modelo, se identificaron ciertas tendencias y patrones entre los agentes. Los agentes con ID en el rango de 700 a 900 mostraron un rendimiento notablemente inferior en comparación con otros grupos. En contraste, aquellos con ID superiores a 1100 registraron un rendimiento de llamadas significativamente mejor.
+- **Posibles Tendencias:** Durante el análisis del modelo, se identificaron ciertas tendencias y patrones entre los agentes. Los agentes con ID en el rango de 700 a 900 mostraron un rendimiento notablemente inferior en comparación con otros grupos. En contraste, aquellos con ID superiores a 1100 registraron un rendimiento de llamadas significativamente mejor.
 
 Asimismo, los agentes con ID inferiores a 500 también evidenciaron un rendimiento bueno. Para comprender mejor estas tendencias, sería necesario realizar estudios adicionales que exploren si estos resultados están relacionados con el horario de trabajo o si pertenecen a un grupo de recién ingresados.
 
