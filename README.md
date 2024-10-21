@@ -1,4 +1,4 @@
-# Proyectos personales
+# Proyectos Personales
 ![image](https://github.com/user-attachments/assets/3a7c54cb-dc6a-403d-8c73-a548729ea3e7)
 
  ### MI PRIMER PROYECTO POWER BI 
