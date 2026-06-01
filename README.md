@@ -93,6 +93,6 @@ Agradezco cualquier comentario o sugerencia que puedan tener, ya que son valioso
 
 **Datos:**  [Call Center Data.csv](https://github.com/user-attachments/files/17466054/Call.Center.Data.csv)
 
-**Archivo:** (Proyecto_Power_Bi.pbix)
+**Archivo:** (Dashboard Call Center.pbix)
 
 **Jeiner Diaz Morales**
