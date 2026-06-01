@@ -41,9 +41,8 @@ El uso de tarjetas informativas también resulta crucial, ya que proporcionan da
 En conjunto, estos elementos visuales no solo mejoran la usabilidad del dashboard, sino que también garantizan que los datos sean fácilmente accesibles y comprensibles, facilitando la toma de decisiones informadas.
 
   
-![Captura_Proyect_1](https://github.com/user-attachments/assets/ebbe749c-8bd0-4825-80db-fd4a6b44be7f)
-- Imagen previa en formato PDF [Proyect_1.pdf](https://github.com/user-attachments/files/17464420/Proyect_1.pdf)
-- Interacción con el Dashboard (Link)[DashBoard - Power Bi](https://app.powerbi.com/view?r=eyJrIjoiZDVkNWFiMzEtNmE2Ny00NjIyLWFjZTctNWQ5NWYxNDNiZTExIiwidCI6ImJhYjBiNjc5LWJkNWYtNGZlOC1iNTE2LWM2YjhiMzE3Yzc4MiIsImMiOjR9)
+![Captura_Proyect_1](https://github.com/jmoraless999/Proyectos_personales/blob/main/Fotos%20Dashboard%20Call%20center.png) 
+- Interacción con el Dashboard (Link)[DashBoard - Power Bi](https://app.powerbi.com/groups/me/reports/48232e09-36e4-4353-b302-ef955ed7acbc?ctid=bab0b679-bd5f-4fe8-b516-c6b8b317c782&pbi_source=linkShare)
 
 ## Resultados y Conclusiones:
 - **Porcentaje de Llamadas Contestadas:**
@@ -62,11 +61,11 @@ Estos resultados destacan la importancia de implementar estrategias de mejora pa
 
 **Grupo 1 (Mayor a 80%)**
 
-![Grupo 1 ](https://github.com/user-attachments/assets/980cac21-c319-4703-8145-69748d02a9e3)
+![Grupo 1 ](https://github.com/jmoraless999/Proyectos_personales/blob/main/Dashboard%20Asesores%20que%20cumplen.png)
 
 **Grupo 0 (Menor o igual a 80%)**
 
-![Grupo 0 ](https://github.com/user-attachments/assets/07eb3b3b-f4e2-4add-bf0c-207d554aa84e)
+![Grupo 0 ](https://github.com/jmoraless999/Proyectos_personales/blob/main/Dashboard%20Asesores%20que%20no%20cumplen.png)
 
 - **Posibles Tendencias:** Durante el análisis del modelo, se identificaron ciertas tendencias y patrones entre los agentes. Los agentes con ID en el rango de 700 a 900 mostraron un rendimiento notablemente inferior en comparación con otros grupos. En contraste, aquellos con ID superiores a 1100 registraron un rendimiento de llamadas significativamente mejor.
 
@@ -74,7 +73,7 @@ Asimismo, los agentes con ID inferiores a 500 también evidenciaron un rendimien
 
 Un análisis más detallado y la recopilación de información adicional permitirán determinar si existe una correlación entre el rendimiento y factores como los horarios de trabajo, la experiencia de los agentes o el tipo de formación recibida.
 
-![Captura_Proyect_tend](https://github.com/user-attachments/assets/20821d9f-f1cc-435d-8696-a845207d7b59)
+![Captura_Proyect_tend](https://github.com/jmoraless999/Proyectos_personales/blob/main/Dashboard%20Agentes%20diferentes.png)
 
 ## Retroalimentación y Mejoras Futuras:
 
@@ -90,7 +89,7 @@ Quiero agradecer a todos por tomarse el tiempo para leer este proyecto. Este es 
 
 Agradezco cualquier comentario o sugerencia que puedan tener, ya que son valiosos para mi crecimiento profesional.
 
-**DashBoard:** [DashBoard - Power Bi](https://app.powerbi.com/view?r=eyJrIjoiZDVkNWFiMzEtNmE2Ny00NjIyLWFjZTctNWQ5NWYxNDNiZTExIiwidCI6ImJhYjBiNjc5LWJkNWYtNGZlOC1iNTE2LWM2YjhiMzE3Yzc4MiIsImMiOjR9)
+**DashBoard:** [DashBoard - Power Bi](https://app.powerbi.com/groups/me/reports/48232e09-36e4-4353-b302-ef955ed7acbc?ctid=bab0b679-bd5f-4fe8-b516-c6b8b317c782&pbi_source=linkShare)
 
 **Datos:**  [Call Center Data.csv](https://github.com/user-attachments/files/17466054/Call.Center.Data.csv)
 
